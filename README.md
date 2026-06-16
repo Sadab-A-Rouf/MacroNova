@@ -23,3 +23,17 @@ it makes updating macros and remapping keys on the fly incredibly easy.</p>
 pull-up resistors, and all ESP32-C3 pinouts are finalized and verified. The bill of 
 materials is ready for Macondo reviewers. Waiting on funding approval — once parts 
 arrive, build and soldering logs go right here.</p>
+<img src="images/Screenshot 2026-06-16 221625.png" alt="Schematic" width="700">
+<img src="images/Screenshot 2026-06-16 221618.png" alt="Schematic" width="700">
+<img src="images/Screenshot 2026-06-16 221613.png" alt="Schematic" width="700">
+<img src="images/Screenshot 2026-06-15 184501.png" alt="Schematic" width="700">
+<img src="images/Screenshot 2026-06-15 184453.png" alt="Schematic" width="700">
+<img src="images/Screenshot 2026-06-16 221656.png" alt="Schematic" width="700">
+<img src="images/Screenshot 2026-06-16 223902.png" alt="Schematic" width="700">
+<img src="images/Screenshot 2026-06-16 223910.png" alt="Schematic" width="700">
+<img src="images/Screenshot 2026-06-16 223915.png" alt="Schematic" width="700">
+<img src="images/Screenshot 2026-06-16 223924.png" alt="Schematic" width="700">
+<img src="images/Screenshot 2026-06-16 223928.png" alt="Schematic" width="700">
+<img src="images/Screenshot 2026-06-16 223944.png" alt="Schematic" width="700">
+<img src="images/Screenshot 2026-06-16 224001.png" alt="Schematic" width="700">
+<img src="images/Screenshot 2026-06-16 224004.png" alt="Schematic" width="700">
