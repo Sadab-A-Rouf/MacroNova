@@ -37,3 +37,4 @@ arrive, build and soldering logs go right here.</p>
 <img src="images/Screenshot 2026-06-16 223944.png" alt="Schematic" width="700">
 <img src="images/Screenshot 2026-06-16 224001.png" alt="Schematic" width="700">
 <img src="images/Screenshot 2026-06-16 224004.png" alt="Schematic" width="700">
+![Matrix Diagram](images/macronova_4x4_matrix_diagram.svg)
